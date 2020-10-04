@@ -1,8 +1,8 @@
 # Key Detector  
 
-Key Detector is an Application that let you discovering the Unicode (ASCII Code) for any Key in the Keyboard.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/74cf38bf-b83b-453a-be2e-e23c34a070e8/deploy-status)](https://app.netlify.com/sites/keydetector/deploys)  
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/74cf38bf-b83b-453a-be2e-e23c34a070e8/deploy-status)](https://app.netlify.com/sites/keydetector/deploys)
+Key Detector is an Application that let you discovering the Unicode (ASCII Code) for any Key in the Keyboard.
 
   
 ![Screenshot](preview.png)   
