@@ -10,7 +10,7 @@ Key Detector is an Application that let you discovering the Unicode (ASCII Code)
 
 ## Getting Started
 
-You can try the APP from [here](https://mohamed-elhawary.github.io/key-detector/), just enter any key from your Keyboard directly once the App. is opened and the result will show to you.
+You can try the APP from [here](https://mohamed-elhawary.github.io/key-detector/), just enter any key from your Keyboard directly once the App. is opened and the result will be shown to you.
 
 ## Prerequisites
 
